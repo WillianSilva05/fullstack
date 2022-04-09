@@ -1,13 +1,24 @@
-# Teste treinamento FULLSTACK
+# Treinamento FULLSTACK
+
+### Comandos básicos git (Windows)
+
+- cd: usado para caminhar entre as pastas.
+- dir: lista todas as pastas.
+- mkdir: cria uma nova pasta.
+- $git rm 'nome do arquivo': remove um arquivo.
+- $git rmdiv 'nome da pasta: remove toda a pasta.
+- ls: lista dos o diretório que está selecionado.
+
+
 
 ### Chaves SSH
 
-- Conecta o seu computador remoto com o seu github e melhora a interação com os repositórios.
+- Conecta o seu computador local com o seu github e melhora a interação com os repositórios.
 
 Para criar uma chave SSH, fazemos os seguintes passos.
 
 1. No github, vamos até as chaves SSH e voltamos para o git,
-lá é onnde vamos criar as chaves.
+lá é onde vamos criar as chaves.
 O comando utilizado para gerar as chaves é :
 - ssh-keygen -t es25519 -C 'seu email aqui';
 logo apos irá pedir uma senha;
@@ -48,13 +59,3 @@ git config --global --unset 'nome da propriedade' (user.email; user.name)
 git remote add origin 'link do repositório github.
 - Para listar os repositórios disponíveis neste apelido usamos.
 git remote -v
-
-### Comandos básicos git
-
-- cd; usado para caminhar entre as pastas.
-
-- ls; lista todos os arquivos da pasta.
-
-- dir; retorna todas as pastas.
-
-- mkdir; cria uma nova pasta.
