@@ -32,12 +32,22 @@ git config --global user.email 'escreve seu email aqui';
 2. User
 git config --global user.name 'seu user aqui'
 
+- Caso o user ou email esteja incorreto usamos;
+git config --global --unset 'nome da propriedade' (user.email; user.name)
 
 ### Para adicionar alterações no repositório
 
 - Para criar o repositório local (git init)
 1. git add 'nome do arquivo' ou * (adiciona todos os arquivos)
 2. git commit -m 'comentário'
+3. git status; retorna o status dos documentos no repositório e se há alguma alteração ou commit pendente.
+
+### Para criar repositórios remotos que vão para o github
+
+- Utilizamos o para criar o apelido do link.
+git remote add origin 'link do repositório github.
+- Para listar os repositórios disponíveis neste apelido usamos.
+git remote -v
 
 ### Comandos básicos git
 
@@ -47,6 +57,4 @@ git config --global user.name 'seu user aqui'
 
 - dir; retorna todas as pastas.
 
-- mkdir; cria uma nova pasta;
-
-- rm
+- mkdir; cria uma nova pasta.
