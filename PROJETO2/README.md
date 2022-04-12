@@ -974,3 +974,54 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 - https://www.youtube.com/embed/hnLflajlBjY?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
+
+## Debugging e Error Handling
+
+##### Tipos de erros
+
+1. Apresentação do curso
+
+-https://www.youtube.com/embed/0nLxa_YMbBQ?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+2. ECMAScript erro e DOMException 
+
+- https://www.youtube.com/embed/ONI4EDF66fg?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+##### Tratando erros
+
+1. Throw, try/catch e finally
+
+- https://www.youtube.com/embed/pFV61JGAP9c?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+##### Criando erros
+
+1. O objeto error
+
+- https://www.youtube.com/embed/0NjyZc4aEYY?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+2. Atividade prática
+
+- https://www.youtube.com/embed/5s9WAMO-vZM?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+## Javascript Assíncrono
+
+##### Assincronicidade
+
+1. Apresentação do curso
+
+- https://www.youtube.com/embed/IKvi3tu1VYI?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+2. Definições, promisse async/Await
+
+- https://www.youtube.com/embed/wpoUJXU4490?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+##### Consumindo API's
+
+1. O que são API's e Fetch
+
+- https://www.youtube.com/embed/DBUvVN6Y-ig?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+2. Atividade prática
+
+- https://www.youtube.com/embed/gb9hYU2JMCk?controls=0&autoplay=1&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
